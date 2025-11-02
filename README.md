@@ -29,7 +29,7 @@ This project allows users to search for movies by title and view essential infor
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/movie-search-simple-react.git
+   git clone https://github.com/dbrooks11/movie-search-simple-react.git
 
 2. **Navigate to the project directory:**
     cd movie-search-simple-react
